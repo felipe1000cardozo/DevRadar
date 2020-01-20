@@ -1,0 +1,3 @@
+*Componentes: Bloco isolado de HTML, CSS E JS, O QUAL NÃO INTERFERE NO RESULTADO DA APLICAÇÃO.
+*PROPIEDADE: Informações que o componente Pai passa para o componente filho.
+*Estado: Informaçoes mantidas pelo componente (lwmbrar: Imutabilidade)
